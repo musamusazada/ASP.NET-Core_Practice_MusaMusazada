@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismayil\\Desktop\\MusaMusazada\\Personal\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj": {}
+    "C:\\Users\\musaam\\Desktop\\Back-End\\Tasks\\ASP.NET-Core_Practice_MusaMusazada\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismayil\\Desktop\\MusaMusazada\\Personal\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj": {
+    "C:\\Users\\musaam\\Desktop\\Back-End\\Tasks\\ASP.NET-Core_Practice_MusaMusazada\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismayil\\Desktop\\MusaMusazada\\Personal\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj",
+        "projectUniqueName": "C:\\Users\\musaam\\Desktop\\Back-End\\Tasks\\ASP.NET-Core_Practice_MusaMusazada\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj",
         "projectName": "TASK-06-12-21",
-        "projectPath": "C:\\Users\\ismayil\\Desktop\\MusaMusazada\\Personal\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj",
-        "packagesPath": "C:\\Users\\ismayil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismayil\\Desktop\\MusaMusazada\\Personal\\TASK-06-12-21\\TASK-06-12-21\\obj\\",
+        "projectPath": "C:\\Users\\musaam\\Desktop\\Back-End\\Tasks\\ASP.NET-Core_Practice_MusaMusazada\\TASK-06-12-21\\TASK-06-12-21\\TASK-06-12-21.csproj",
+        "packagesPath": "C:\\Users\\musaam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\musaam\\Desktop\\Back-End\\Tasks\\ASP.NET-Core_Practice_MusaMusazada\\TASK-06-12-21\\TASK-06-12-21\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ismayil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\musaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
